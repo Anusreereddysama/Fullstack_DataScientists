@@ -22,7 +22,7 @@ I will be updating this repository **week by week** with code, notes, and projec
 - Solved multiple Python practice problems  
 - Completed a test to assess fundamentals  
 
-**Folder:** [`Week_01_Python_Basics`](./Week_01_Python_Basics)  
+**Folder:** [`Week_01_Python_Basics`](./week1)  
 
 ---
 
